@@ -25,7 +25,7 @@ console.log(`(Enter Quit to exit game)`);
 console.log();
   
 // Entering a while true Game Loop
-while (true) {
+do {
   // Try Catch statement:
   try {
     // Input 
@@ -72,6 +72,6 @@ while (true) {
     console.log (`An error occurred`);
     break;
   }
-}
+} while (true);
 console.log();
 console.log(`Thanks for playing my game!`);
