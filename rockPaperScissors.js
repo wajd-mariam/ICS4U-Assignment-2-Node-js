@@ -7,6 +7,7 @@
  * @author Wajd Mariam <wajd.mariam@mths.ca>
  *
  * Created on : 2020/12/04
+ * Version: 2.0
  */
  
 // Importing prompt
